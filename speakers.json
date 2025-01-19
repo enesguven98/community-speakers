@@ -710,6 +710,32 @@
         {"name": "", "link": ""},
         {"name": "", "link": ""}
       ]
-    }
+    },
+     {
+      "name": "Enes Güven",
+      "expertise": [
+		    "Security Architecture",
+        "Network Security",
+        "Network",
+        "Log Management"
+      ],
+      "bio": "Network and Security Specialist @Otokoç Otomotiv",
+      "image": "https://www.canva.com/design/DAGaycjamVk/GXF3aze-0BB0pVWS21drJw/edit?utm_content=DAGaycjamVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "email": "enesnetsec@gmail.com",
+      "linkedin": "linkedin.com/in/enesguven98",
+      "twitter": "@enesguven98",
+      "locations": [İstanbul],
+      "pastEvents": [
+        "DevFest Gaziantep",
+      ],
+      "liveEvents": [
+        {"name": "", "link": ""},
+        {"name": "", "link": ""}
+      ],
+      "presentations": [
+        {"name": "", "link": ""},
+        {"name": "", "link": ""}
+      ]
+    },
   ]
 }
